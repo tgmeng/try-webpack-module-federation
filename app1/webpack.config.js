@@ -33,7 +33,7 @@ module.exports = {
       remotes: {
         app2: 'app2',
       },
-      // shared: ['react', 'react-dom'],
+      shared: ['react', 'react-dom'],
     }),
     new HtmlWebpackPlugin({
       title: 'app1',
