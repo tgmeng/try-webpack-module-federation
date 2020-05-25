@@ -1,6 +1,7 @@
 {
   "private": true,
   "scripts": {
+    "bootstrap": "lerna bootstrap",
     "start": "lerna run --parallel start"
   },
   "workspaces": {
